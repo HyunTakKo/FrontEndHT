@@ -1,3 +1,3 @@
 This Front-End.
-Inlcude Personal information, Contact information, Learning information
+Include Personal information, Contact information, Learning information
 
